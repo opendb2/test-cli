@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/opendb2/test-cli.git"
   },
+  "bin": "./bin/cli-test.js",
   "author": "",
   "license": "ISC",
   "bugs": {
